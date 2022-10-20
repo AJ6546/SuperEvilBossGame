@@ -1,0 +1,12 @@
+# spring22-jam-team-6
+ Super Evil Boss Game.
+ This is a fun little game I have enjoyed building for the Spring 22 Game Jam. 
+ The idea is rooted in the question - What happens to all the defeated Game Bosses? ( Which I think has cool potential for a big game)
+ This is just a small fragment of the possibilities that the question opens up and I don't think that I have done justice to it. 
+ But it is a fun game (I hope) that I enjoyed building. Hope you like it too!
+ The game is going to be 5 rounds of boss fights, which is made pretty clear in the intro.
+ You will need to be connected to internet as I am using real time database to save the progress.
+ You can Register with any thing that goes with email format (a@b.com) and password (6 degits)
+ Log in with the same. Or play as a guest in which case you won't be able to recollect the data incase you, decide to log out, uninstall the app or play on a different device.
+Please download the game form
+https://aj6546.itch.io/superevilbossgame
